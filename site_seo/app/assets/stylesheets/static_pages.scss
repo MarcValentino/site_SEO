@@ -1,3 +1,38 @@
 // Place all the styles related to the static_pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.cabecalho{
+    height: 320;
+    background: #3f4981;
+}
+
+.menu{
+    max-width: 960px;
+    margin: 0 auto;
+    height: 20px;
+}
+
+.menu h1{
+    float: left;
+    font-size: 2em;
+    font-family: Georgia, serif;
+    color: #e2e5ec;
+}
+
+.menu ul{
+    float: right;
+    
+}
+
+.menu li{
+    color: #e2e5ec;
+    text-decoration: none;
+    display: inline;
+    margin: 0 20px;
+}
+
+.menu a:visited, a:link{
+    color: #e2e5ec;
+    text-decoration: none;
+}
