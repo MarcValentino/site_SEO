@@ -10,7 +10,7 @@
 .menu{
     max-width: 960px;
     margin: 0 auto;
-    height: 20px;
+    height: 100px;
 }
 
 .menu h1{
@@ -21,8 +21,7 @@
 }
 
 .menu ul{
-    float: right;
-    
+    float: right;    
 }
 
 .menu li{
@@ -35,4 +34,13 @@
 .menu a:visited, a:link{
     color: #e2e5ec;
     text-decoration: none;
+}
+
+.container{
+    max-width: 960px;
+}
+
+.imagem_trilha, .imagem_passeio{
+    width: 100%;
+    height: auto;
 }
