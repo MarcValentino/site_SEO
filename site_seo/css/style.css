@@ -1,3 +1,9 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+
 .cabecalho{
     height: 100px;
     background: #3f4981;
@@ -17,7 +23,8 @@
 }
 
 .menu ul{
-    float: right;    
+    float: right;
+    padding: 20px 0px;
 }
 
 .menu li{
