@@ -1,9 +1,5 @@
-// Place all the styles related to the static_pages controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
-
 .cabecalho{
-    height: 320;
+    height: 100px;
     background: #3f4981;
 }
 
