@@ -34,9 +34,20 @@
 
 .container{
     max-width: 960px;
+    //display: block;
 }
 
-.imagem_trilha, .imagem_passeio{
+.container div p, div h1,div h2, h1, p{
+    text-align: center;
+}
+
+.container div img{
     width: 100%;
     height: auto;
+    margin: 0 auto;
+    display: block;
+}
+
+.trilha, .passeio{
+    margin: 0 auto;
 }
