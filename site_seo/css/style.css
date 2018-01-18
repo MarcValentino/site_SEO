@@ -138,12 +138,12 @@ body{
     background-color: #3f4981;
     color: #e2e5ec;
     height: 100px;
-    margin: 30px auto 0 auto;
 }
 
 .footer-container{
     max-width: 960px;
     padding: 25px 0; 
+    margin: 0 auto;
 }
 
 .footer-adress{
